@@ -1,3 +1,2 @@
 Line 1 : Hello devops
-Line 2 : Important information
 Line 3 : temporary information
